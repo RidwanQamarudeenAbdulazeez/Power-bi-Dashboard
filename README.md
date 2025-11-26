@@ -27,6 +27,7 @@ What is the sales distribution across product categories?
 5. Insight Extraction: Interpreted visuals for business insights.
 ## Dashbord
 <img width="890" height="537" alt="Overwiew page" src="https://github.com/user-attachments/assets/5bf39b2d-473d-41dc-a812-2fbaa944276e" />
+
 ## Project Insight
 The analysis reveals that sales performance is strongest in the Consumer segment, with the Corporate segment following closely, while the Home Office segment contributes the least. Key regions such as the West and East lead in revenue generation, and certain customers and product categories consistently show higher purchase activity. The data also highlights steady quarterly growth, indicating improving business performance and strong market demand.
 ## Final Conclusion
