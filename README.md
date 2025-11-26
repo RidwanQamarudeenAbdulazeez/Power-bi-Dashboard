@@ -28,11 +28,6 @@ What is the sales distribution across product categories?
 ## Dashbord
 <img width="890" height="537" alt="Overwiew page" src="https://github.com/user-attachments/assets/5bf39b2d-473d-41dc-a812-2fbaa944276e" />
 ## Project Insight
-• Consumer segment contributes the highest sales.
-• Quarterly sales show a growth trend.
-• Few products generate most revenue.
-• Some regions outperform others.
-• Key customers contribute significant revenue.
+The analysis reveals that sales performance is strongest in the Consumer segment, with the Corporate segment following closely, while the Home Office segment contributes the least. Key regions such as the West and East lead in revenue generation, and certain customers and product categories consistently show higher purchase activity. The data also highlights steady quarterly growth, indicating improving business performance and strong market demand.
 ## Final Conclusion
-The dashboard provides a full view of business performance and supports data-driven decisions. It highlights top products, customer behavior, segment contributions, and regional trends.
-
+Overall, the dashboard provides a clear picture of sales behavior, customer performance, product contribution, and regional distribution, enabling better decision-making. The insights show that the business is growing steadily, profitable, and driven mainly by high-performing segments and regions. With continued focus on top-performing products and customers, the business is positioned for further expansion and improved profitability.
