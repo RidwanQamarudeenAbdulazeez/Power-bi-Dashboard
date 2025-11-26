@@ -27,4 +27,12 @@ What is the sales distribution across product categories?
 5. Insight Extraction: Interpreted visuals for business insights.
 ##Dashbord
 <img width="890" height="537" alt="Overwiew page" src="https://github.com/user-attachments/assets/5bf39b2d-473d-41dc-a812-2fbaa944276e" />
+##Project Insight
+• Consumer segment contributes the highest sales.
+• Quarterly sales show a growth trend.
+• Few products generate most revenue.
+• Some regions outperform others.
+• Key customers contribute significant revenue.
+##Final Conclusion
+The dashboard provides a full view of business performance and supports data-driven decisions. It highlights top products, customer behavior, segment contributions, and regional trends.
 
